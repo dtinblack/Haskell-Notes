@@ -1,0 +1,15 @@
+# Folder view configuration files #
+###################################
+
+.DS_Store
+
+# File extensions included #
+############################
+
+*.o
+*.hi
+
+# Specific programs not included ( executables ) #
+##################################################
+
+helloworld
