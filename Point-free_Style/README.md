@@ -2,7 +2,7 @@
 
 "Point-free style is a programming paradigm in which function definitions do not include the arguments ( or "points")" - [Wikipedia: Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
 
-It is common for functions to be written as a composition of other functions and the point-free style gives a cleaner code which can help when reasoning about the functions.
+Point-free can help in giving clear steps when reasoning about a function.
 
 Examples:
 
@@ -20,5 +20,12 @@ sum = foldr (+) 0
 ```
 
 ## Licence
+
+[See Licence](/LICENSE)
+
+
+
+
+# Licence
 
 [See Licence](/LICENSE)

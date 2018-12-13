@@ -3,9 +3,11 @@
 
 ## Introduction
 
-Over the many months of learning Haskell through self study e.g. reading books, web sites and papers, I have created the folllwoing notes to illustrate some of its nuancest.
+The following are a series of notes that I have compiled during my self study e.g. reading books, web sites and papers, of [Haskell](https://www.haskell.org/):
 
-[Pointfree Style](/Pointfree_Style)
+[Pointfree Style](/Pointfree_Style) - a function can be defined without reference to one or more of its arguments
+
+Next Topic
 
 ## Books
 
