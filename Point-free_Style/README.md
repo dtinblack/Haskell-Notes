@@ -2,7 +2,7 @@
 
 "Point-free style is a programming paradigm in which function definitions do not include the arguments ( or "points")" - [Wikipedia: Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
 
-Point-free can help in giving clear steps when reasoning about a function.
+Point-free can help in giving clear steps when reasoning about a function, for example functions can be composed of other functions.
 
 Examples:
 
