@@ -22,10 +22,3 @@ sum = foldr (+) 0
 ## Licence
 
 [See Licence](/LICENSE)
-
-
-
-
-# Licence
-
-[See Licence](/LICENSE)
