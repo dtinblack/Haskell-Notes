@@ -19,6 +19,12 @@ Point-free doesn't have any explicit arguments for the function:
 sum = foldr (+) 0
 ```
 
+[check code](/pointfree.hs)
+
+## Further Notes
+
+In the video [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk) there is a presentation about the use of the point-free style and how it can be used to make code easier to read and therefore understand.  The example discussed in the video is taken from []
+
 ## Licence
 
 [See Licence](/LICENSE)
