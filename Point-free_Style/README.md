@@ -19,7 +19,7 @@ Point-free doesn't have any explicit arguments for the function:
 sum = foldr (+) 0
 ```
 
-[check code](/pointfree.hs)
+[check code](/Point-free_Style/pointfree.hs)
 
 ## Further Notes
 
