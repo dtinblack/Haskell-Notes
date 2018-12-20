@@ -1,8 +1,6 @@
 # Point-free Style
 
-"Point-free style is a programming paradigm in which function definitions do not include the arguments ( or "points")" - [Wikipedia: Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
-
-Point-free can help in giving clear steps when reasoning about a function. For example functions can be composed of other functions and using the point-free style gives clearer code.
+[Point-free](https://en.wikipedia.org/wiki/Tacit_programming) is a style of programming in which function definitions do not include arguments ( or "points"). Without the arguments the code concentrates on functions rather than the data structures and therefore produces code that should be easier to understand.
 
 Examples:
 
@@ -19,11 +17,11 @@ Point-free doesn't have any explicit arguments for the function:
 sum = foldr (+) 0
 ```
 
-[check code](/Point-free_Style/pointfree.hs)
+In the accompanying code [pointfree.hs](/Point-free_Style/pointfree.hs) examples are given of using the point-free style in function combinators, including composition.
 
 ## Further Notes
 
-In the video [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk) there is a presentation about the use of the point-free style and how it can be used to make code easier to read and therefore understand.  The example discussed in the video is taken from []
+The presentation [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk) gives more examples of using the point-free style to produce understandable code for complex problems.
 
 ## Licence
 
