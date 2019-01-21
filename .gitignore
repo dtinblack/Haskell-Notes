@@ -3,11 +3,28 @@
 
 .DS_Store
 
-# File extensions included #
-############################
+# File extensions not included #
+################################
 
 *.o
 *.hi
+
+# Specific Folders not included ( drafts ) #
+############################################
+
+Combinators
+Performance
+Lambda_Calculus
+Types
+Functional_Programming
+Category_Theory
+Parallel_and_Concurrent
+Turing_Machine
+Trees
+Recursion_Schemes
+Testing
+
+DRAFT.md
 
 # Specific programs not included ( executables ) #
 ##################################################
